@@ -33,7 +33,7 @@ Windows 11 x64 is the current support target. Physical minimum-device certificat
 
 Measured building corners, floor counts and opening locations need reliable references and field checks. A preset, GPS fix or review approval does not establish surveyed precision or certify a fire-escape route. The pilot does not assess route capacity/condition, legal access or structural design.
 
-See [verification and remaining acceptance](VERIFICATION.md). There is no offline synchronization, public hosted community service, signed installer or automatic updater in this pilot.
+See [verification and remaining acceptance](VERIFICATION.md) and the [current validation status](STATUS.md). There is no offline synchronization, public hosted community service, signed installer or automatic updater in this pilot.
 
 ## Privacy and reports
 
